@@ -3,9 +3,9 @@
 	"id": "febmod",
 	"version": "${version}",
 	"name": "febmod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "FebMod is tuff",
 	"authors": [
-		"Me!"
+		"Februari10"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
